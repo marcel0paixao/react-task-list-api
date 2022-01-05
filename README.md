@@ -14,7 +14,7 @@ Before you start, make sure you meet the following requirements:
 
 To install React Task List, follow the steps:
 
-Linux and macOS:
+Linux and macOS: <br>
 -create a database for this project, the database name you'll copy and paste in .env file in the database variables
 ```
 <npm install>
