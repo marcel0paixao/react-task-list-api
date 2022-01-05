@@ -21,7 +21,7 @@ Linux and macOS: <br>
 <npx yarn typeorm migration:run>
 ```
 
-Windows:
+Windows: <br>
 -create a database for this project, the database name you'll copy and paste in .env file in the database variables
 ```
 <npm install>
